@@ -1,0 +1,84 @@
+body{
+  background-color:royalblue;
+}
+
+.heading_div{
+margin:30px;
+background-color:paleturquoise;
+border-radius:10px;
+padding:20px;
+}
+
+.heading{
+margin:0px;
+margin:top;
+background-color:palevioletred;
+color:white;
+margin-top:10px;
+border-radius:10px;
+height:40px;
+padding:7px;
+margin-bottom:10px;
+font-family: 'Pangolin', cursive;
+font-size:30px;
+
+}
+
+.modal_button{
+  width:200px;
+  height:30px;
+  border-radius: 2px;
+  border:none;
+  background-color:palevioletred;
+  color:white;
+  font-size:20px;
+  font-family: 'Bangers', cursive;
+}
+
+.modal_heading{
+  font-size:40px;
+  font-family: 'Dancing Script', cursive;
+  color:peru;
+}
+
+.sub_heading{
+  font-family: 'Train One', cursive;
+  color:goldenrod;
+  font-size:30px;
+  border:3px solid gold;
+  padding:10px;
+}
+
+.take{
+  width:200px;
+  height:30px;
+  border-radius: 2px;
+  border:none;
+  background-color:palevioletred;
+  color:white;
+  font-size:20px;
+  font-family: 'Bangers', cursive;
+}
+
+.sub_heading_2{
+  font-family: 'Train One', cursive;
+  color:coral;
+  font-size:30px;
+  border:3px solid coral;
+  padding:10px;
+}
+
+.images{
+  
+  width:250px;
+  height:250px;
+}
+
+.sub_heading_3{
+  font-family: 'Train One', cursive;
+  color:mediumorchid;
+  font-size:30px;
+  border:3px solid mediumorchid;
+  padding:10px;
+ 
+}
